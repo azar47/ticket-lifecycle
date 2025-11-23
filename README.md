@@ -49,6 +49,10 @@ Screenshots below show each stage of the ticket lifecycle.
 
 ---
 
-<img width="1030" height="977" alt="lifecycle ss5" src="https://github.com/user-attachments/assets/00b866ee-a546-421f-868e-9e495ac60864" /> 
+<img width="1920" height="1080" alt="lifecycle ss4" src="https://github.com/user-attachments/assets/88c5969c-b2a5-4ea6-b5b2-24c1a4f2ba26" />
 **Description:** Ticket properties set to Sev-A with the Online Banking department assigned.
 
+---
+
+<img width="1030" height="977" alt="lifecycle ss5" src="https://github.com/user-attachments/assets/11ee5f8c-2bbf-45aa-928a-33ffb62584eb" />
+**Description:** Online banking outage ticket worked and completed by Jane.
