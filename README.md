@@ -33,50 +33,21 @@ Screenshots below show each stage of the ticket lifecycle.
 
 ---
 
-## Screenshot 1  
+![lifecycle ss1](https://github.com/user-attachments/assets/68027015-1c7d-48d3-bf85-075d46ddeab9
 **Description:** Admin/Analyst login page for accessing the osTicket Admin and Agent Panels.
 
 ---
 
-## Screenshot 2  
+<img width="1920" height="1080" alt="lifecycle ss2" src="https://github.com/user-attachments/assets/0cd86463-d799-4571-b726-257aa5a33ff6" />
 **Description:** End user osTicket portal where users submit tickets.
 
 ---
 
-## Screenshot 3  
-**Description:** SysAdmins changed to a top-level department and the Maintenance department removed.
-
----
-
-## Screenshot 4  
+<img width="1920" height="1080" alt="lifecycle ss3" src="https://github.com/user-attachments/assets/d8d06195-ee62-4d41-a6f7-a63429119dca" />
 **Description:** Ticket created by an end user describing that the entire mobile/online banking system is down.
 
 ---
 
-## Screenshot 5  
+<img width="1030" height="977" alt="lifecycle ss5" src="https://github.com/user-attachments/assets/00b866ee-a546-421f-868e-9e495ac60864" /> 
 **Description:** Ticket properties set to Sev-A with the Online Banking department assigned.
 
----
-
-## Screenshot 6  
-**Description:** Online banking outage ticket worked and completed by Jane.
-
----
-
-## Screenshot 7  
-**Description:** Ticket created by an end user for the accounting department needing an Adobe upgrade.
-
----
-
-## Screenshot 8  
-**Description:** Ticket created by an end user for the CFO’s laptop that will no longer turn on.
-
----
-
-## Screenshot 9  
-**Description:** Tickets updated with final properties, including Sev-A for SysAdmins, and the escalated ticket becoming inaccessible to the original agent.
-
----
-
-## Screenshot 10  
-**Description:** All tickets solved and closed, showing the end of the ticket lifecycle.
