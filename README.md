@@ -34,7 +34,7 @@ Screenshots below show each stage of the ticket lifecycle.
 ---
 
 
-<img width="1920" height="1080" alt="lifecycle ss2" src="[https://github.com/user-attachments/assets/0cd86463-d799-4571-b726-257aa5a33ff6](https://github.com/user-attachments/assets/a944a91a-1c5f-476c-9ef2-c5569c31e5c4)" />
+<img width="1920" height="1080" alt="lifecycle ss1" src="(https://github.com/user-attachments/assets/a944a91a-1c5f-476c-9ef2-c5569c31e5c4)" />
 **Description:** Admin/Analyst login page for accessing the osTicket Admin and Agent Panels.
 
 ---
