@@ -32,24 +32,24 @@ Windows 10 (21H2)
 
 
 <img width="1920" height="1080" alt="lifecycle ss1 1" src="https://github.com/user-attachments/assets/acf9c24a-7f4c-44dc-b3a6-e9ef7abb2d49" />
-**Description:** Admin/Analyst login page for accessing the osTicket Admin and Agent Panels.
+Screenshot 1: Admin/Analyst login page for accessing the osTicket Admin and Agent Panels.
 
 ---
 
 <img width="1920" height="1080" alt="lifecycle ss2" src="https://github.com/user-attachments/assets/0cd86463-d799-4571-b726-257aa5a33ff6" />
-**Description:** End user osTicket portal where users submit tickets.
+Screenshot 2: End user osTicket portal where users submit tickets.
 
 ---
 
 <img width="1920" height="1080" alt="lifecycle ss3" src="https://github.com/user-attachments/assets/d8d06195-ee62-4d41-a6f7-a63429119dca" />
-**Description:** Ticket created by an end user describing that the entire mobile/online banking system is down.
+Screenshot 3: Ticket created by an end user describing that the entire mobile/online banking system is down.
 
 ---
 
 <img width="1920" height="1080" alt="lifecycle ss4" src="https://github.com/user-attachments/assets/88c5969c-b2a5-4ea6-b5b2-24c1a4f2ba26" />
-**Description:** Ticket properties set to Sev-A with the Online Banking department assigned.
+Screenshot 4: Ticket properties set to Sev-A with the Online Banking department assigned.
 
 ---
 
 <img width="1030" height="977" alt="lifecycle ss5" src="https://github.com/user-attachments/assets/11ee5f8c-2bbf-45aa-928a-33ffb62584eb" />
-**Description:** Online banking outage ticket worked and completed by Jane.
+Screenshot 5: Online banking outage ticket worked and completed by Jane.
