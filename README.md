@@ -24,9 +24,6 @@ osTicket
 IIS  
 Windows 10 (21H2)
 
-## Media
-Screenshots below show each stage of the ticket lifecycle.
-
 ---
 
 # Demonstration
